@@ -37,7 +37,7 @@ Uma lista de excelentes projetos, bibliotecas e softwares Católicos.
 
 * [![Python](https://img.shields.io/badge/language-Python-blue)](#) [lectionarium](https://github.com/davidrmcharles/lectionarium) - Ferramenta para estudo do Latim eclesiástico.
 * [![Ruby](https://img.shields.io/badge/language-Ruby-purple)](#) [calrom](https://github.com/calendarium-romanum/calrom) - Calendário Litúrgico (Forma Ordinária).
-* [![Awk](https://img.shields.io/badge/language-Awk-grey)](#) [vul](https://github.com/LukeSmithxyz/vul) - A Biblia Latina VUlgata na linha de comando.
+* [![Awk](https://img.shields.io/badge/language-Awk-grey)](#) [vul](https://github.com/LukeSmithxyz/vul) - A Biblia Latina Vulgata na linha de comando.
 * [![Rust](https://img.shields.io/badge/language-Rust-red)](#) [agape-deus](https://github.com/ngorden/agape-deus) - Leituras diárias na seu terminal.
 
 ## Dados
