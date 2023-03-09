@@ -6,7 +6,7 @@ Uma lista de excelentes projetos, bibliotecas e softwares Católicos.
 
 [In english](https://github.com/servusDei2018/awesome-catholic/blob/master/README.fr.md) | [En français](https://github.com/servusDei2018/awesome-catholic/blob/master/README.fr.md) | [En español](https://github.com/servusDei2018/awesome-catholic/blob/master/README.es.md)
 
-## Contents
+## Conteúdo
 
   - [APIs](#apis)
   - [Aplicativos](#apps)
@@ -30,15 +30,15 @@ Uma lista de excelentes projetos, bibliotecas e softwares Católicos.
 
 ## Aplicativos
 
-* [![Swift](https://img.shields.io/badge/language-Swift-orange)](#) [Lectionary](https://github.com/Dev1an/Lectionary) - A beautifully designed app to view daily readings in different languages. Can export JSON to create booklets for Nightfever Leuven.
-* [![C](https://img.shields.io/badge/language-C-gray)](#) [gregorio](https://github.com/gregorio-project/gregorio) - Gregorio is a software application for engraving Gregorian Chant scores on a computer.
+* [![Swift](https://img.shields.io/badge/language-Swift-orange)](#) [Lectionary](https://github.com/Dev1an/Lectionary) - Um aplicativo projetado para ter as leituras diárias em vários idiomas na palma da mão. É possível exportar o conteúdo para JSON e criar livretos para Nightfever Leuven.
+* [![C](https://img.shields.io/badge/language-C-gray)](#) [gregorio](https://github.com/gregorio-project/gregorio) - Software para gravar partituras de cantos gregorianos no computador.
 
 ## Linha de Comando (CLI)
 
-* [![Python](https://img.shields.io/badge/language-Python-blue)](#) [lectionarium](https://github.com/davidrmcharles/lectionarium) - A tool for studying Ecclesiastical Latin
-* [![Ruby](https://img.shields.io/badge/language-Ruby-purple)](#) [calrom](https://github.com/calendarium-romanum/calrom) - Liturgical calendar (Ordinary Form)
-* [![Awk](https://img.shields.io/badge/language-Awk-grey)](#) [vul](https://github.com/LukeSmithxyz/vul) - Latin Vulgate Bible on the Command Line
-* [![Rust](https://img.shields.io/badge/language-Rust-red)](#) [agape-deus](https://github.com/ngorden/agape-deus) - Daily Catholic Readings in your terminal
+* [![Python](https://img.shields.io/badge/language-Python-blue)](#) [lectionarium](https://github.com/davidrmcharles/lectionarium) - Ferramenta para estudo do Latim eclesiástico.
+* [![Ruby](https://img.shields.io/badge/language-Ruby-purple)](#) [calrom](https://github.com/calendarium-romanum/calrom) - Calendário Litúrgico (Forma Ordinária).
+* [![Awk](https://img.shields.io/badge/language-Awk-grey)](#) [vul](https://github.com/LukeSmithxyz/vul) - A Biblia Latina VUlgata na linha de comando.
+* [![Rust](https://img.shields.io/badge/language-Rust-red)](#) [agape-deus](https://github.com/ngorden/agape-deus) - Leituras diárias na seu terminal.
 
 ## Dados
 
